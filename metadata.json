@@ -1,0 +1,6 @@
+{
+  "name": "EZ with AI",
+  "description": "GK/GS for Ssc, CDS/NDA ETC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
